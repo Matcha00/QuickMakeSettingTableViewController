@@ -1,0 +1,2 @@
+# QuickMakeSettingTableViewController
+快速创建个人中心或设置界面
